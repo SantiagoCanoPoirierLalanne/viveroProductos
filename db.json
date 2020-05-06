@@ -1,5 +1,6 @@
-[
-  {
+{
+  "posts": [
+    {
     "id": 1,
     "category":"Aromaticas",
     "img": "https://www.plantasdehuerto.com/2892-large_default/tomillo-c13.jpg",
@@ -35,4 +36,5 @@
     "sku": "BEG04-U",
     "description": "Flores reunidas en cimas exilares de color rosa, rojo, blanco."
   }
-]
+  ]
+}
