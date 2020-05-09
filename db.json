@@ -2,7 +2,7 @@
   "posts": [
     {
     "id": 1,
-    "category":"Aromaticas",
+    "category":"Aromáticas",
     "img": "https://www.plantasdehuerto.com/2892-large_default/tomillo-c13.jpg",
     "name": "Tomillo",
     "price": "2,50 €",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "category":"Aromaticas",
+    "category":"Aromáticas",
     "img": "https://www.plantasdehuerto.com/2888-large_default/lavanda-elegans-c13.jpg",
     "name": "Lavanda",
     "price": "3 €",
