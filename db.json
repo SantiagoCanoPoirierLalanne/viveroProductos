@@ -5,7 +5,7 @@
     "category":"Aromáticas",
     "img": "https://www.plantasdehuerto.com/2892-large_default/tomillo-c13.jpg",
     "name": "Tomillo",
-    "price": 2,5,
+    "price":"2,5",
     "sku": "TOM01-C",
     "description": "Arbusto muy popular, el Tomillo también se conoce como Tremoncillo, Timo, Senserina, o Salsero. El más aromático de los tomillos, sus hojas son ovaladas con el contorno enrollado y sus flores rosadas y blancas que florecen en verano. Se usa como condimento en la cocina y como hierba medicinal por sus propiedades."
   },
@@ -14,7 +14,7 @@
     "category":"Aromáticas",
     "img": "https://www.plantasdehuerto.com/2888-large_default/lavanda-elegans-c13.jpg",
     "name": "Lavanda",
-    "price": 3,
+    "price":"3",
     "sku": "LAV02-R",
     "description": "Planta arbustiva aromática con flor de color azul violáceo que florece en verano. Utilizada como planta culinaria y medicinal."
   },
@@ -23,7 +23,7 @@
     "category":"Frutales",
     "img": "https://www.plantasdehuerto.com/1208-large_default/manzano-fuji-maceta-de-17-cm-de-%EF%BF%BD.jpg",
     "name": "Manzano Fuji",
-    "price": 13,95,
+    "price": "13,95",
     "sku": "MZN05-T",
     "description": "Una manzana amarillo verdosa con vetas rojizas. Tienen un sabor muy dulce y lo mismo sirven para comer en crudo que para repostería."
   },
@@ -32,7 +32,7 @@
     "category":"Flores",
     "img": "https://www.plantasdehuerto.com/1839-large_default/verbena-hibrida.jpg",
     "name": "Begonia Semperflorens",
-    "price": 3,5,
+    "price": "3,5",
     "sku": "BEG04-U",
     "description": "Flores reunidas en cimas exilares de color rosa, rojo, blanco. Se obtienen diversas variedades de esta especie, diferenciadas por su tamaño o bien por el color de las hojas, que pueden asumir coloraciones rojizas en múltiples tonalidades.Florecen durante casi todo el año.La Begonia semperflorens es utilizada para arriates, rocallas y bordes o para el cultivo en maceta en interior y terraza.Clima cálido y húmedo.Luz: a semisombra. Se da perfectamente en lugares de sombra."
   }
