@@ -35,6 +35,42 @@
     "price": "3.5",
     "sku": "BEG04-U",
     "description": "Flores reunidas en cimas exilares de color rosa, rojo, blanco. Se obtienen diversas variedades de esta especie, diferenciadas por su tamaño o bien por el color de las hojas, que pueden asumir coloraciones rojizas en múltiples tonalidades.Florecen durante casi todo el año.La Begonia semperflorens es utilizada para arriates, rocallas y bordes o para el cultivo en maceta en interior y terraza.Clima cálido y húmedo.Luz: a semisombra. Se da perfectamente en lugares de sombra."
+  },
+  {
+    "id": 5,
+    "category":"Flores",
+    "img": "https://www.plantasdehuerto.com/1114-large_default/poinsettia-o-flor-de-pascua.jpg",
+    "name": "Col de Jardín",
+    "price":"3.2",
+    "sku": "COL11-P",
+    "description": "Se trata de una planta que suele ser anual, aunque también hay variedades perennes. Altura y diámetro: 25-30 cm. Hojas: grandes y rizadas con matices rojos, rosado, amarillo y blanco. La época en la que suelen florecer las Brassicas oleraceas es el otoño, dado que el frío magnifica su colorido."
+  },
+  {
+    "id": 6,
+    "category":"Frutales",
+    "img": "https://gardencenterejea.com/5964-tm_large_default/olivo-arbequina-c-1.jpg",
+    "name": "Olivo Arbequina",
+    "price":"4.2",
+    "sku": "OLIV06-D",
+    "description": "Altura: 0.80 - 1,00 m. El olivo alberquina, se caracteriza por una gran resistencia al frío, un vigor muy reducido y una baja resistencia a la tierra calcárea. El tamaño de su fruto es el menor de las variedades cultivadas en España, entre uno y dos gramos. Además de producir aceitunas de mesa, se utiliza para producir un aceite de oliva de gran calidad. El aceite es más mantecoso y con un acabado ligeramente picante"
+  },
+  {
+    "id": 7,
+    "category":"Aromáticas",
+    "img": "https://media.verdecora.es/47310-large_default/menta-surtido-variado.jpg",
+    "name": "Menta",
+    "price":"2.5",
+    "sku": "MEN01-C",
+    "description": "Planta muy aromática que se puede cultivar en maceta o plantar directamente en la tierra. Múltiples usos culinarios y medicinales."
+  },
+  {
+    "id": 8,
+    "category":"Flores",
+    "img": "https://www.plantasdehuerto.com/c/60-category_default/comprar-rosales.jpg",
+    "name": "Rosal",
+    "price":"7.5",
+    "sku": "ROS04-R",
+    "description": "Los rosales son arbustos vigorosos, que dan rosas, su conocida y delicada flor. Hay variedades de rosales trepadores, cubresuelos y en miniatura entre otros. Según la variedad de rosal la flor puede ser muy diferente en forma y color. El cuidado no suele ser complicado, puede seguir unos sencillos trucos: Les gustan los suelos aireados y con nutrientes. La poda en Febrero es muy importante. Hay que colocarlos en lugares soleados. Es bueno abonarlos regularmente. Hay que cortar las flores marchitas."
   }
   ]
 }
